@@ -1,4 +1,4 @@
-# Recommendation_Impact_App_Analysis
+# Recommendation Impact App Analysis
 Анализ Влияния Новой Системы Рекомендаций на Эффективность Приложения по Доставке Продуктов
 
 Исследование выполнено с использованием Jupyter Notebook на языке программирования Python. В процессе анализа данных применялись следующие библиотеки: pandas, scipy.stats (ttest_ind).
